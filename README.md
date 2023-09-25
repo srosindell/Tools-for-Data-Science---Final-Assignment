@@ -1,1 +1,1 @@
-Repo contains notebook for the final assignent
+This repo contains the notebook for the final assignent
